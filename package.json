@@ -1,7 +1,7 @@
 {
   "name": "sequelize-super-model",
   "description": "Parent super model for sequelize model object.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "sequelize": "^4.38.0",
     "microtime-nodejs": "^1.0.0"
