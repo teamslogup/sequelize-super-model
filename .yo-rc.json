@@ -1,0 +1,9 @@
+{
+  "generator-npm-module": {
+    "promptValues": {
+      "authorName": "hwaranglee",
+      "fullName": "hwaranglee",
+      "emailAddress": "ceo@slogup.com"
+    }
+  }
+}
